@@ -1,2 +1,2 @@
-# nos fichiers : tree.h et tree.c
-# ajout de contenu dans fichier main.c
+new file : tree.h et tree.c
+edit : main.c
